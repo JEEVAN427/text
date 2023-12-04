@@ -7,3 +7,11 @@
 :root{
     font-family: 'poppins',sans-serif;
 }
+    width: 500px;
+    padding: 10px ;
+    background: purple;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.8);
+}
+.main-div{
+    flex-direction: column;
+}
